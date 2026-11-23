@@ -1,7 +1,7 @@
 interface:
   display_name: "AI新手项目教练"
   short_description: "一次只问一个问题，带零基础新人做出第一个成品"
-  default_prompt: "使用 $ai-project-coach 帮我完成……"
+  default_prompt: "使用 $ai-project-coach 带我把一件想做的事做出来"
 
 policy:
   allow_implicit_invocation: true
